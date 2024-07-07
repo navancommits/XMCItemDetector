@@ -1,0 +1,4 @@
+Environment PreviewEndpoint ScApiKey ExperienceEdgeEndpoint EdgeApiKey
+SIT https://xmc-abc9b90-xyzxm-sit.sitecorecloud.io/sitecore/api/graph/edge {xcxcxcxxcx-E8B6-jjjjj-7899-xcxcxcxcx} https://edge.sitecorecloud.io/api/graphql/v1 qweqrertertertertetetetetertertetetertetetteteteteerwrwrwerwererre
+UAT https://xmc-xyz7515-xyzxm-uat.sitecorecloud.io/sitecore/api/graph/edge {zxczxczxcz-zxcc-hjkk-7865-zxczczxc} https://edge.sitecorecloud.io/api/graphql/v1 frwerwerwerwrwrwrwrewerwerwrwerwerwerewrwerewrwerwrwrwerwerwerwerwerw=
+PROD https://xmc-xyz243d-xyzxm-prod.sitecorecloud.io/sitecore/api/graph/edge {rewrtetet-hghj-jjjj-5t67-dsdfsfsfs} https://edge.sitecorecloud.io/api/graphql/v1 fsrfwerewrwerwerwerwerwerwerwrwerwrwrwewrwrwerwrwrwrwerwerwrwerwerwerwe 
